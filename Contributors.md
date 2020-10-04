@@ -1,5 +1,9 @@
 ## Contributors Details
 
+Name: [Sujata Mishra](https://github.com/kaxiif) <br/>
+Place: Pakistan <br/>
+About: Full stack Stack Developer <br/>
+
 Name: [Tej Grover](https://github.com/tejgrover) <br/>
 Place: India <br/>
 About: newbie developer <br/>
